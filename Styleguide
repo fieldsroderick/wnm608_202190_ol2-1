@@ -1,0 +1,258 @@
+Styleguide
+Contents
+→Table of Contents
+Typography
+Headings
+Paragraphs
+Cards
+View Window
+Navigations
+Grid System
+Flex System
+Tables
+Forms
+Inputs
+Labels
+Controls
+Buttons
+Hotdog
+Select
+Check Box
+Figures
+→Typography
+Headings
+Heading 1
+Heading 2
+Heading 3
+Heading 4
+Heading 5
+Heading 6
+Paragraphs
+Iste alias cupiditate repellendus magni vitae, fugit provident laudantium, minus pariatur impedit aperiam veniam aspernatur, quibusdam delectus, libero ratione inventore unde consequuntur. Unde a architecto veritatis quia, voluptatum consequatur cum!
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur veritatis quod nulla nam placeat tenetur ab minus repellendus reprehenderit quos. Iure molestias inventore placeat autem accusantium repudiandae provident omnis assumenda!
+
+Doloremque quod asperiores eius. Sint placeat officia corrupti quo aut ipsam voluptatibus dolor velit harum. Doloribus temporibus incidunt animi, dolorum molestias earum praesentium quaerat, veritatis asperiores quam fugit a, aut?
+
+Iste alias cupiditate repellendus magni vitae, fugit provident laudantium, minus pariatur impedit aperiam veniam aspernatur, quibusdam delectus, libero ratione inventore unde consequuntur. Unde a architecto veritatis quia, voluptatum consequatur cum!
+
+→Cards
+Card
+Card Soft
+Card Hard
+Card Flat
+Card Dark
+Card Medium
+→View Window
+→Navigations
+Basic Nav
+home
+store
+about
+Flex Nav
+home
+store
+about
+Stretch Nav
+home
+store
+about
+Pills Nav
+home
+store
+about
+Crumbs Nav
+home
+store
+about
+Material Nav
+home
+store
+about
+→Grid System
+Grid
+column 5
+column 5
+column 4
+column 4
+column 4
+column 3
+column 3
+column 3
+column 3
+column 2
+column 2
+column 2
+column 2
+column 2
+→Tables
+Basic Table
+ID	Office	Name	Email	Phone
+1	522	Hamilton Cline	hcline@academyart.edu	555-2424
+2	512	Fred Mchale	fmchale@academyart.edu	555-2424
+3	522	Michael Catanzaro	mcatanzaro@academyart.edu	555-2424
+4	514	Andera Pimentel	apimentel@academyart.edu	555-2424
+5	516	DC Scarpelli	dscarpelli@academyart.edu	555-2424
+Striped Table
+ID	Office	Name	Email	Phone
+1	522	Hamilton Cline	hcline@academyart.edu	555-2424
+2	512	Fred Mchale	fmchale@academyart.edu	555-2424
+3	522	Michael Catanzaro	mcatanzaro@academyart.edu	555-2424
+4	514	Andera Pimentel	apimentel@academyart.edu	555-2424
+5	516	DC Scarpelli	dscarpelli@academyart.edu	555-2424
+Striped Lined Vertical
+ID	Office	Name	Email	Phone
+1	522	Hamilton Cline	hcline@academyart.edu	555-2424
+2	512	Fred Mchale	fmchale@academyart.edu	555-2424
+3	522	Michael Catanzaro	mcatanzaro@academyart.edu	555-2424
+4	514	Andera Pimentel	apimentel@academyart.edu	555-2424
+5	516	DC Scarpelli	dscarpelli@academyart.edu	555-2424
+Striped Lined Horizontal
+ID	Office	Name	Email	Phone
+1	522	Hamilton Cline	hcline@academyart.edu	555-2424
+2	512	Fred Mchale	fmchale@academyart.edu	555-2424
+3	522	Michael Catanzaro	mcatanzaro@academyart.edu	555-2424
+4	514	Andera Pimentel	apimentel@academyart.edu	555-2424
+5	516	DC Scarpelli	dscarpelli@academyart.edu	555-2424
+Striped Lined Border
+ID	Office	Name	Email	Phone
+1	522	Hamilton Cline	hcline@academyart.edu	555-2424
+2	512	Fred Mchale	fmchale@academyart.edu	555-2424
+3	522	Michael Catanzaro	mcatanzaro@academyart.edu	555-2424
+4	514	Andera Pimentel	apimentel@academyart.edu	555-2424
+5	516	DC Scarpelli	dscarpelli@academyart.edu	555-2424
+Striped Lined All
+ID	Office	Name	Email	Phone
+1	522	Hamilton Cline	hcline@academyart.edu	555-2424
+2	512	Fred Mchale	fmchale@academyart.edu	555-2424
+3	522	Michael Catanzaro	mcatanzaro@academyart.edu	555-2424
+4	514	Andera Pimentel	apimentel@academyart.edu	555-2424
+5	516	DC Scarpelli	dscarpelli@academyart.edu	555-2424
+Combinations
+ID	Office	Name	Email	Phone
+1	522	Hamilton Cline	hcline@academyart.edu	555-2424
+2	512	Fred Mchale	fmchale@academyart.edu	555-2424
+3	522	Michael Catanzaro	mcatanzaro@academyart.edu	555-2424
+4	514	Andera Pimentel	apimentel@academyart.edu	555-2424
+5	516	DC Scarpelli	dscarpelli@academyart.edu	555-2424
+→ Form Inputs
+Form Input
+Text
+ 
+Number
+ 
+Password
+ 
+Search
+Form Label
+Example
+Text
+Example
+Number
+Example
+Password
+Example
+Search
+Form Control
+Example
+Text
+Example
+Number
+Example
+Password
+Example
+Search
+Example
+Search
+→ Buttons
+Buttons
+                            
+
+→ Hotdog
+Hotdog Basic
+Search
+Hotdog Dark
+Search
+Hotdog Light
+Search
+Hotdogs with Icons
+≡
+Search
+Search
+≡
+→ Select
+
+1
+
+1
+→ Check Boxes
+Label Label
+Heart Checkbox
+ ♥
+Toggle
+
+Remind
+Display Warning?
+
+→ Some Basic Forms
+Login Form
+Username
+Username
+Password
+Password
+→Login Horizontal
+Username
+Password
+→ Address
+Street
+Street name
+City
+City
+State
+State
+Zip Code
+Zip Code
+Country
+Country
+→ Credit Card
+Full Name
+Name
+Card Number
+####-####-####-####
+Expiration
+MM-YY
+CVV
+CVV
+Zip Code
+Zip Code
+→Figures
+Basic Figure
+
+Product
+Figure Grid
+
+Product
+
+Product
+
+Product
+Product Grid
+
+Product Name
+$3.99
+
+Product Name
+$3.99
+
+Product Name
+$3.99
+Product Overlay
+
+Product Name
+$3.99
+
+Product Name
+$3.99
+
+Product Name
+$3.99
